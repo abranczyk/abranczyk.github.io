@@ -11,6 +11,4 @@ children:
     - title: Careers for PhDs
       permalink: /careers-for-phds/
     - title: divider
-    - title: LinkedIn Posts
-      permalink: /linkedin/
 ---

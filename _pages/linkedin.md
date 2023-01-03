@@ -6,7 +6,7 @@ description: An archive of selected LinkedIn posts (until end of 2022).
 nav: false
 nav_order: 9
 ---
-For more recent posts, click [here](../blog/tag/linkedin-posts/). For upcoming posts, follow me [here](https://www.linkedin.com/in/agata-branczyk/). 
+For upcoming posts, follow me [here](https://www.linkedin.com/in/agata-branczyk/). 
 
 ## Articles
 
