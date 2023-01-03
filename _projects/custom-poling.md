@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
+title: custom poling module
+description: For designing the domain configuration of a nonlinear crystal for novel QPM (2022)
+img: assets/img/projects/custom_poling.png
+redirect: https://github.com/abranczyk/custom-poling
+importance: 2
 category: work
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: aggie's garden
+description: over the summer, I grew lots of veggies (2022)
+img: assets/img/projects/2022-07-19-carrots.jpg
+redirect: http://aggiebranczyk.com/aggies-garden/
+importance: 1
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.

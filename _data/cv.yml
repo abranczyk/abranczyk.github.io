@@ -1,97 +1,86 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Agata M. Branczyk
+#     - name: Languages
+#       value: English, Polish
+#     - name: Citizenships
+#       value: Canadian, Australian, Polish
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD, Physics
+      institution: University of Queensland, Brisbane, Australia
+      year: 2010
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Thesis title: Nonclassical States of Light"
+        - "Supervisors: Timothy C. Ralph and Alexei Gilchrist"
+    - title: Bachelor of Science, Physics (Honours Class 1)
+      institution: University of Queensland, Brisbane, Australia
+      year: 2005
       description:
-        - Description 1.
-        - Description 2.
+        - "Honours Thesis title: Quantum Control of a Single Qubit"
+        - "Supervisors: Stephen D. Bartlett and Alexei Gilchrist"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Senior Research Scientist
+      institution: IBM Quantum (remote from Waterloo)
+      year: 2020 - now
+    - title: PSI Fellow
+      institution: Perimeter Institute for Theoretical Physics, Waterloo, Canada
+      year: 2013 - 2020
+    - title: Postdoctoral Fellow
+      institution: Univeristy of Toronto, Toronto, Canada
+      year: 2010 - 2013
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Affiliations
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Adjunct Associate Professor (previously Adjunct Assistant Professor)
+      institution: University of Waterloo, Waterloo, ON
+      year: 2015 - now
+    - title: Affiliate Member
+      institution: Perimeter Institute for Theoretical Physics, Waterloo, ON
+      year: 2022 - now
+    - title: Affiliate Member
+      institution: Institute for Quantum Computing, Waterloo, ON
+      year: 2014 - now
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+#
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items:
+#         - Nobel Prize in Physics
+#         - Matteucci Medal
+#     - year: 2029
+#       items:
+#         - Max Planck Medal
+#
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

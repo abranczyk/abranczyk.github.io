@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
+title: career trajectories
+description: Career resources for physics students (Perimeter Institute, 2019)
+img: assets/img/projects/TRAIN_Career-Day-2019_Events.jpg
+redirect: https://perimeterinstitute.ca/career-trajectories
+importance: 3
 category: work
 ---
 

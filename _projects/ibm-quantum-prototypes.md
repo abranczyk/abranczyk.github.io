@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: quantum prototypes
+description: Software prototypes based on cutting edge quantum computing research (IBM, 2022)
+img: assets/img/projects/prototypes.png
+redirect: https://qiskit-community.github.io/prototypes/
+importance: 1
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
