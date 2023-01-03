@@ -28,7 +28,7 @@ Now, in the case of writing essays at university, the goal isn’t just to have 
 
 You could argue that using chatGPT will limit that.
 
-But I think we can and should try to find different ways to incorporate chatGPT (and other tools/methods) to facilitate learning in a world where these AI tools exists, rather than banning them.
+But I think we can and should try to find different ways to incorporate chatGPT (and other tools/methods) to facilitate learning in a world where these AI tools exist, rather than banning them.
 
 What do you think?
 

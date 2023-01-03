@@ -10,5 +10,4 @@ children:
     - title: divider
     - title: Careers for PhDs
       permalink: /careers-for-phds/
-    - title: divider
 ---
