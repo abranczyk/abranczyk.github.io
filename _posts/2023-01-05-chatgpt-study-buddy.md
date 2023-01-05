@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using ChatGPT as a study budy
+title: Using ChatGPT as a study buddy
 date: 2023-01-05 11:10:00
 description:
 tags: chatgpt openai ai education quantumcomputing quantumcryptography
