@@ -2,7 +2,7 @@
 layout: post
 title: Using ChatGPT as a study buddy
 date: 2023-01-05 11:10:00
-description:
+description: I asked ChatGPT to give me some questions to test my knowledge of quantum cryptography.
 tags: chatgpt openai ai education quantumcomputing quantumcryptography
 ---
 
