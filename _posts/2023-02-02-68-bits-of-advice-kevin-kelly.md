@@ -2,7 +2,7 @@
 layout: post
 title: 68 bits of unsolicited advice
 date: 2023-02-02 11:10:00
-description: 68 bits of unsolicited advice by Kevin Kelly (founding executive editor of Wired magazine)
+description: 68 bits of unsolicited advice by Kevin Kelly (founding executive editor of Wired magazine).
 tags: advice motivation quotes creativity
 ---
 68 bits of unsolicited advice by Kevin Kelly (founding executive editor of Wired magazine).
