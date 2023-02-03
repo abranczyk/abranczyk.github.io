@@ -27,8 +27,12 @@ We took a couple of days to drive from Brisbane to the Woomera test range in Sou
 
 When the rocket launched, I was a couple of kms away…but in the open desert this felt very, very close! At first, it seemed completely silent, but a few seconds later, I was hit with a roaring sound wave. As the rocket was making its way up, up into the sky, I remember seeing the first fuel stage disconnect and being worried it was going to fall on me! (spoiler: it didn't!)
 
-<iframe width="770" height="433" src="https://www.youtube.com/embed/gSRnBdcSbUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<div class="auto-resizable-iframe">
+  <div>
+    <iframe frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/gSRnBdcSbUE"></iframe>
+  </div>
+</div>
+<br>
 The mission was a success and the team went on to do quite a few more missions, improving the technology, while I went on to work on quantum information. But I’m forever grateful to them for letting me be part of this little piece of history. It was really one of the most amazing experiences of my life.
 
 ---
