@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I want to live in a world where everyone who wants to do science, can.
+subtitle: I want to live in a world where everyone who wants to do science, can!
 
 profile:
   align: right
@@ -14,8 +14,6 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi, I'm Aggie!
-
 I'm a Senior Research Scientist on the Quantum Computational Science team at [IBM Quantum](https://www.ibm.com/quantum). Our goal is to advance quantum science using our quantum computing platform.
 
 Outside of my day job (and sometimes within it), I obsessed over these three questions:  
