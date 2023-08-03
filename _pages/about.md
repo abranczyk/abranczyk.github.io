@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: A physicist having fun in quantum tech
+subtitle: I want to live in a world where everyone who wants to do science, can.
 
 profile:
   align: right
@@ -16,10 +16,13 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hi, I'm Aggie!
 
-I'm a long-time academic who made the switch to industry a couple of years ago.
+I'm a Senior Research Scientist on the Quantum Computational Science team at [IBM Quantum](https://www.ibm.com/quantum). Our goal is to advance quantum science using our quantum computing platform.
 
-My research revolves around quantum optics, applied mostly to quantum information, but also to other areas such as quantum biology and relativity.
+Outside of my day job (and sometimes within it), I obsessed over these three questions:  
+- How can we run theoretical research collaborations without pre-established social networks?  
+- How can we enable those who leave academia to continue doing curiosity-driven research?  
+- How can we scale research mentorship for newcomers?  
 
-Since joining industry, I've been focusing more on building quantum software applications.
+I coined the term “denizen science”, which I define as the space between professional science and citizen science. It’s where those who left academia, and those who haven’t yet entered it, can do real science…not because it’s their job, but because they love it.
 
-I care about clear communication, education, and having a happy career. If you care about these things too, check out my various teaching and career resources.
+To enable this, I'm developing a framework called [Doing Research in Public (DRiP)](https://github.com/DRIP-project/meta). This is an open-source side project. If you’d like to join this effort, drop me a line.
