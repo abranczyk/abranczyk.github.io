@@ -4,6 +4,7 @@ title: Identifying cheating with chatGPT on university essays
 date: 2023-01-01 11:10:00
 description: So you know how people are worried that students can use chatGPT to generate essays and submit them as their own assignments?
 tags: chatgpt openai ai writing quantumcomputing
+published: false
 ---
 
 So you know how people are worried that students can use chatGPT to generate essays and submit them as their own assignments?

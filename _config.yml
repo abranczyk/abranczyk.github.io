@@ -8,7 +8,7 @@ middle_name:
 last_name: Branczyk
 email: aggiebranczyk@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A physicist having fun in quantum tech. 
+  A physicist having fun in quantum tech.
 footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
@@ -146,6 +146,17 @@ giscus:
 #     rss_url: https://medium.com/@aggiebranczyk/feed
 
 # -----------------------------------------------------------------------------
+# Blog
+# -----------------------------------------------------------------------------
+
+podcast_name: pitw # blog_name will be displayed in your blog page
+podcast_nav_title: podcast # your blog must have a title for it to be displayed in the nav bar
+podcast_description: careers
+
+
+
+
+# -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
 
@@ -158,9 +169,17 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  podcasts:
+    defaults:
+      layout: post
+    output: true
+    permalink: /podcasts/:path/
+
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
 news_limit: 5 # leave blank to include all the news in the `_news` folder
+
+podcast_limit: 5 # leave blank to include all the podcasts in the `_podcasts` folder
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

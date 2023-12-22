@@ -4,6 +4,7 @@ permalink: /careers-in-quantum/
 title: Careers in Quantum
 description: A curated list of resources to help you build your career in quantum tech.
 nav: false
+published: false
 nav_order: 9
 ---
 ### Talks (careers & advice)

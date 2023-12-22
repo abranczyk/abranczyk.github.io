@@ -1,12 +1,13 @@
 ---
 layout: page
-permalink: /linkedin/
+permalink:
 title: LinkedIn Posts
 description: An archive of selected LinkedIn posts (until end of 2022).
-nav: false
+nav: true
 nav_order: 9
+published: false
 ---
-For upcoming posts, follow me [here](https://www.linkedin.com/in/agata-branczyk/). 
+For upcoming posts, follow me [here](https://www.linkedin.com/in/agata-branczyk/).
 
 ## Articles
 

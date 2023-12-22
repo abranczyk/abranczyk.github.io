@@ -4,6 +4,7 @@ permalink: /careers-for-phds/
 title: Careers for PhDs
 description: The ultimate list of resources for PhD students and graduates looking for a job.
 nav: false
+published: false
 nav_order: 9
 ---
 ### Your No. 1 resource: [LinkedIn](https://www.linkedin.com/)

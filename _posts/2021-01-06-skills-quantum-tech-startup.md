@@ -234,7 +234,3 @@ If there was a piece of advice I’d give to students is that their extra-curric
 -   positions of responsibility in student clubs / student council / non-profits say about their potential for management and leadership.
 
 Those activities are not just pointers for recruiters, but they are opportunities they can use to develop soft skills they might feel they are lacking for the career they want. In particular…I would say that we are looking for their ability to work in a group that is scientifically challenging and diverse in personalities. The ability to adapt to such a working environment is something that can be improved at an individual level through experience.”
-
----
-
-Want to share your thoughts? You can join the discussion on [LinkedIn](https://www.linkedin.com/pulse/what-skills-do-i-need-work-quantum-tech-start-up-aggie-branczyk-/) or [Medium](https://medium.com/@aggiebranczyk/what-skills-do-you-need-to-work-at-a-quantum-tech-start-up-cff2fc3d6965).

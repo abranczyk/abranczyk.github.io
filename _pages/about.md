@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I want to live in a world where everyone who wants to do science, can!
+subtitle:
 
 profile:
   align: right
@@ -10,17 +10,20 @@ profile:
   image_circular: false # crops the image to make it circular
   address:
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
-I'm a Senior Research Scientist on the Quantum Computational Science team at [IBM Quantum](https://www.ibm.com/quantum). Our goal is to advance quantum science using our quantum computing platform.
+Former academic (physicist) who works in the quantum computing industry by day and thinks about how to do curiosity-driven research by night.
 
-Outside of my day job (and sometimes within it), I obsessed over these three questions:  
-- How can we run theoretical research collaborations without pre-established social networks?  
-- How can we enable those who leave academia to continue doing curiosity-driven research?  
-- How can we scale research mentorship for newcomers?  
+Some things I've made which might be useful:
+- Physists in the Wild podcast: Interviews with physicists who left academia ([audio](https://physicistsinthewild.buzzsprout.com) and [video](https://www.youtube.com/playlist?list=PLnwt2ODY2PX0hnUJgIwCwHSkPzH4J4fVX))
+- [DRiP](https://github.com/DRiP-project): A framework for doing research in public
+- [Python module](https://github.com/abranczyk/custom-poling) for designing the domain configuration of a nonlinear crystal to approximate a desired phase-matching function.
+- My [lectures](https://pirsa.org/speaker/agata-branczyk) on quantum theory from my time at Perimeter Institute
+- [Various scientific talks that I've given](https://youtube.com/playlist?list=PLnwt2ODY2PX0ZTTHs7xHMPpCZXxwHX9VW&si=hSxU3hFRmEXfWDlW) (some more [here](http://www.fields.utoronto.ca/video-archive/2017/08/2405-17470) and [here](http://www.fields.utoronto.ca/video-archive/2015/08/382-4951))
+- My [course on scientific writing](https://youtube.com/playlist?list=PLnwt2ODY2PX1P_23KOr0hs_zMeBHE3Q0d&si=XLrzEtKj1SlFdfdC)
+- A [list of my scientific publications](https://scholar.google.com/citations?user=TrDQTukAAAAJ&hl=en) on google scholar
 
-I coined the term “denizen science”, which I define as the space between professional science and citizen science. It’s where those who left academia, and those who haven’t yet entered it, can do real science…not because it’s their job, but because they love it.
-
-To enable this, I'm developing a framework called [Doing Research in Public (DRiP)](https://github.com/DRIP-project/meta). This is an open-source side project. If you’d like to join this effort, drop me a line.
+---
+<i>Disclaimer: I work at IBM Quantum as a Technical Program Manager, and the opinions shared on this site are my own and are not in any way endorsed by IBM.</i>

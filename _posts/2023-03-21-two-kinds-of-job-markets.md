@@ -4,6 +4,7 @@ title: Two kinds of job markets
 date: 2023-03-21 09:45:00
 description: If you're on the hunt for a technical knowledge-work-kind-of job, it’s useful to imagine that there are two kinds of job markets.
 tags: careeradvice academia industry research
+published: false
 ---
 If you're on the hunt for a technical knowledge-work-kind-of job, it’s useful to imagine that there are two kinds of job markets:
 

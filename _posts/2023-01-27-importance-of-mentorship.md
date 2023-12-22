@@ -4,6 +4,7 @@ title: The importance of mentorship
 date: 2023-01-27 11:10:00
 description: "My biggest piece of advice to young people is: don’t underestimate the importance of meeting new people and developing meaningful relationships."
 tags: mentorship phd womeninstem careeradvice academia
+published: false
 ---
 I was recently asked to write a short blurb on the importance of mentorship, for mentors and mentees alike, for a local Women in Physics mentoring event next week. Here it is:
 

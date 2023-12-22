@@ -4,6 +4,7 @@ title: Identifying impactful research topics
 date: 2023-04-27 11:45:00
 description: One of those things that a supervisor does is help a student find a research topic. But if you don't have a supervisor (or your supervisor isn't helping you!), you have to figure it out for yourself.
 tags: research phd mentorship metascience
+published: false
 ---
 One of my pet interests is how do we solve the problem that there are so many people interested in doing original research but not enough people out there to mentor them on how to do it effectively.
 

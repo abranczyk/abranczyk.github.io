@@ -5,6 +5,7 @@ title: Quantum Lectures
 description: A selection of my lectures at the Perimeter Institute for Theoretical Physics
 nav: false
 nav_order: 5
+published: false
 ---
 
 ### Quantum Theory (2019)

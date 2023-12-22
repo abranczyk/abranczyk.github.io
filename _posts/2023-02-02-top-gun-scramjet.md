@@ -4,6 +4,7 @@ title: Launching rockets in the Australian desert
 date: 2023-02-02 16:10:00
 description: Twenty one years ago, I got to be part of the Hyshot team when they demonstrated the first-ever successful test flight of a scramjet engine.
 tags: movies hypersonics scramjet rockets
+published: false
 ---
 The other day, I started watching the new Top Gun movie, and the Mach 10 scene made me jump out of my chair. In the scene, Maverick (Tom Cruise) is flying a test plane trying to get it to Mach 10. As he’s accelerating through Mach 1, 2, 3…3.5…he says “[transitioning to scramjet](https://www.youtube.com/watch?v=2PTxm1lBQeQ&t=66s)”…that's the bit that made me jump.
 

@@ -4,6 +4,7 @@ title: Fundamental research vs. industry training
 date: 2023-03-07 16:10:00
 description: There’s a tension between physics profs, students, and industry.
 tags: careeradvice academia industry research
+published: false
 ---
 There’s a tension between physics profs, students, and industry.
 

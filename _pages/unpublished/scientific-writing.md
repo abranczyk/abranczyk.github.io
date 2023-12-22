@@ -5,6 +5,7 @@ title: Course on Scientific Writing
 description: A series of video lectures on scientific writing
 nav: false
 nav_order: 6
+published: false
 ---
 
 ### Why should you bother learning how to write well?

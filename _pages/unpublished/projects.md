@@ -3,8 +3,9 @@ layout: page
 title: projects
 permalink: /projects/
 description: A growing collection my projects
-nav: true
+nav: false
 nav_order: 2
+published: false
 display_categories: [work, fun]
 horizontal: false
 ---

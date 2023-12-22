@@ -1,8 +1,9 @@
 ---
 layout: page
 title: career resources
-nav: true
+nav: false
 nav_order: 7
+published: false
 dropdown: true
 children:
     - title: Careers in Quantum

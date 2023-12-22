@@ -57,7 +57,3 @@ All of this brings up some interesting questions:
 What do you think?
 
 There’s a lot of material out there about how to successfully run a startup, but most of it is aimed at regular software startups. Many quantum computing startups, on the other hand, are deep-tech startups which are “technology first”. In any kind of startup, _product-market fit is critical for success_, but the approaches can be different: regular startups can (and should) start by identifying a problem, then work on finding a solution for that problem, while deep tech startups are forced to start with the solution (the technology), and must find a problem that’s solved by that technology. This has some interesting flow on effects and raises some interesting questions. If you’re running or working for a quantum computing startup (or organization), it’s important to know the difference so you don’t apply the wrong lessons from regular startups.
-
----
-
-Want to share your thoughts? You can join the discussion on [LinkedIn](https://www.linkedin.com/posts/agata-branczyk_quantum-computing-startups-are-not-like-regular-activity-6975501834215919617-nstS) or [Medium](https://aggiebranczyk.medium.com/quantum-computing-startups-are-not-like-regular-startups-620f9af083cf).

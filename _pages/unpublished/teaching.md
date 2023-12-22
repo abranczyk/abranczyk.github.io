@@ -1,9 +1,10 @@
 ---
 layout: page
 title: teaching
-nav: true
+nav: false
 nav_order: 6
 dropdown: true
+published: false
 children:
     - title: Talks
       permalink: /talks/
