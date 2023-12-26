@@ -2,8 +2,6 @@
 layout: post
 title: What skills do you need to work at a quantum tech start-up?
 date: 2021-01-06 11:10:00
-description: Twenty-three quantum tech startup founders and employees share what skills they look for when hiring.
-tags: skills careers quantumcomputing startups
 ---
 I often get asked by students and postdocs who are looking to transition into quantum tech, “what skills do I need?” To help answer this question, I asked some of my friends and colleagues at various quantum tech startups what skills they looked for when hiring.
 

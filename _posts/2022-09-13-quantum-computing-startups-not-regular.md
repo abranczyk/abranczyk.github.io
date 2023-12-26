@@ -2,8 +2,6 @@
 layout: post
 title: Quantum computing startups are not like regular startups
 date: 2022-09-13 11:10:00
-description: Quantum computing startups are “deep tech” startups, and therefore take a technology-first approach to product development.
-tags: quantumcomputing startups deeptech
 ---
 Like many people leaving academia to join quantum tech in industry, I thought that learning about how startups work would be a good way to hit the ground running. This is because the industry is mostly made up of startups or startup-like organizations within large companies.
 
