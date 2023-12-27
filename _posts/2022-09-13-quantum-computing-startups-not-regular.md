@@ -2,6 +2,7 @@
 layout: post
 title: Quantum computing startups are not like regular startups
 date: 2022-09-13 11:10:00
+comment_issue_id: 2
 ---
 Like many people leaving academia to join quantum tech in industry, I thought that learning about how startups work would be a good way to hit the ground running. This is because the industry is mostly made up of startups or startup-like organizations within large companies.
 

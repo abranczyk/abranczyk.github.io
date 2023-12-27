@@ -40,7 +40,7 @@
                 var cavatarlink = data[i].user.avatar_url;
             {% endif %}
             var cdate = data[i].created_at;
-            document.getElementById("comments").innerHTML = document.getElementById("comments").innerHTML + "<div class='comment'><div class='commentgravatar'>" + '<img src="' + cavatarlink + '" width="40" alt="' + cuser + '">' + "</div><div class='commentheader'><a class='commentuser' href=\""+ cuserlink + "\">" + cuser + "</a> commented <a class='commentdate' href=\"" + clink + "\">on " + cdate.substring(0, 10) + "</a></div><div class='commentbody'>" + cbody + "</div></div>";
+            document.getElementById("comments").innerHTML = document.getElementById("comments").innerHTML + "<div class='comment'><div class='commentgravatar'>" + '<img src="' + cavatarlink + '" width="38" alt="' + cuser + '">' + "</div><div class='commentheader'><a class='commentuser' href=\""+ cuserlink + "\">" + cuser + "</a> commented <a class='commentdate' href=\"" + clink + "\">on " + cdate.substring(0, 10) + "</a></div><div class='commentbody'>" + cbody + "</div></div>";
             $('img[data-src]').replaceWith( "[Image blocked] " );
         }
     }
@@ -59,23 +59,23 @@
 <style>
 .comment {padding: 5px 0 15px;}
 .comment P:last-child {margin-bottom: 0;}
-.commentgravatar {position: absolute; width:40px; border: 1px solid #e5e5e5;}
-.commentheader, .commentbody {padding: 5px 10px; margin-left: 55px; border: 1px solid #e5e5e5; background: white;}
-.commentheader {position: relative; background: #f4f4f4; border-bottom: 0;}
+.commentgravatar {position: absolute; width:40px; border: 1px solid var(--global-divider-color);}
+.commentheader, .commentbody {padding: 5px 10px; margin-left: 55px; border: 1px solid var(--global-divider-color); background: var(--global-bg-color);}
+.commentheader {position: relative; background: var(--global-card-bg-color); border-bottom: 0;}
 .commentbody {padding: 10px 10px 13px;}
-.commentheader a {color: #777777;}
+.commentheader a {color: var(--global-theme-color);}
 .commentheader::before {
     position: absolute;
     content: "";
     display: block;
     width: 9px;
     height: 9px;
-    background: #f4f4f4;
+    background: var(--global-card-bg-color);
     transform: rotate(-45deg);
     left: 0;
     margin-left: -4px;
     margin-top: 4px;
-    box-shadow: -1px -1px 0px 0px rgba(0, 0, 0, 0.15);
+    box-shadow: -1px -1px 0px 0px var(--global-divider-color);
 }
 </style>
 {% endif %}
