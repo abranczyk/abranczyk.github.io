@@ -24,6 +24,7 @@ Some things I've made which might be useful:
 - [Various scientific talks that I've given](https://youtube.com/playlist?list=PLnwt2ODY2PX0ZTTHs7xHMPpCZXxwHX9VW&si=hSxU3hFRmEXfWDlW) (some more [here](http://www.fields.utoronto.ca/video-archive/2017/08/2405-17470) and [here](http://www.fields.utoronto.ca/video-archive/2015/08/382-4951))
 - My [course on scientific writing](https://youtube.com/playlist?list=PLnwt2ODY2PX1P_23KOr0hs_zMeBHE3Q0d&si=XLrzEtKj1SlFdfdC)
 - A [list of my scientific publications](https://scholar.google.com/citations?user=TrDQTukAAAAJ&hl=en) on google scholar
+- My PhD thesis: [Non-classical states of light](https://espace.library.uq.edu.au/view/UQ:220610) ([pdf](/assets/pdf/Branczyk2010_Non-classical_states_of_light.pdf))
 
 ---
 <i>Disclaimer: I work at IBM Quantum as a Technical Program Manager, and the opinions shared on this site are my own and are not in any way endorsed by IBM.</i>
