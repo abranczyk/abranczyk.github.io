@@ -26,5 +26,7 @@ Some things I've made which might be useful:
 - A [list of my scientific publications](https://scholar.google.com/citations?user=TrDQTukAAAAJ&hl=en) on google scholar
 - My PhD thesis: [Non-classical states of light](https://espace.library.uq.edu.au/view/UQ:220610) ([pdf](/assets/pdf/Branczyk2010_Non-classical_states_of_light.pdf))
 
+Email me at [aggiebranczyk@gmail.com](mailto:aggiebranczyk@gmail.com). Tell me something about yourself. 
+
 ---
 <i>Disclaimer: I work at IBM Quantum as a Technical Program Manager, and the opinions shared on this site are my own and are not in any way endorsed by IBM.</i>
