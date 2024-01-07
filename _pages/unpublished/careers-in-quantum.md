@@ -4,12 +4,17 @@ permalink: /careers-in-quantum/
 title: Careers in Quantum
 description: A curated list of resources to help you build your career in quantum tech.
 nav: false
-published: false
+published: true
 nav_order: 9
 ---
+
+⚠️ **This page has not been updated since September 2021** ⚠️
+
+*When I started this page, it wasn't easy to find info on careers in quantum tech. These days, there's a lot more out there and it's easier to find, so I no longer update this page.*
+
 ### Talks (careers & advice)
 
-- (NEW) How to Join The Quantum Worksforce - [Prepare for College](https://www.youtube.com/watch?v=Ks08iNdo8Ck), [Prepare for Grad School](https://www.youtube.com/watch?v=3qeJamAprk8), [Prepare for Faculty Positions](https://www.youtube.com/watch?v=LJvgDnTATwc): A series of talks by the Yale Quantum Institue (2021)
+- How to Join The Quantum Worksforce - [Prepare for College](https://www.youtube.com/watch?v=Ks08iNdo8Ck), [Prepare for Grad School](https://www.youtube.com/watch?v=3qeJamAprk8), [Prepare for Faculty Positions](https://www.youtube.com/watch?v=LJvgDnTATwc): A series of talks by the Yale Quantum Institue (2021)
 -   [Transition from Academia to Industry in Optics](https://www.youtube.com/watch?v=izPzEZMg65Q): Hear from optics, photonics, quantum, and laser recruiter John Barnes on how to be a competitive candidate in industry (29 Sep, 2020).
 -   [My Quantum Journey - From QPong to LHC and beyond](https://slides.com/huangjunye/my-quantum-journey): Slides from a talk by Junye Huang, PhD student at the National Univeristy of Singapore (Sep, 2020).
 -   [How to Get a Job in Quantum Computing, Career Panel](https://www.youtube.com/watch?v=7dfw8k2p1to&feature=youtu.be): Panel discussion, hosted by Qiskit, showcasing the diverse perspectives and skills that are important for developing a career in quantum computing (31 Jul, 2020).
