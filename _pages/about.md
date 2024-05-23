@@ -17,7 +17,7 @@ social: false  # includes social icons at the bottom of the page
 Former academic (physicist) who works in the quantum computing industry by day and thinks about how to do curiosity-driven research by night.
 
 Some things I've made which might be useful:
-- Physists in the Wild podcast: Interviews with physicists who left academia ([audio](https://physicistsinthewild.buzzsprout.com) and [video](https://www.youtube.com/playlist?list=PLnwt2ODY2PX0hnUJgIwCwHSkPzH4J4fVX))
+- Physicists in the Wild podcast: Interviews with physicists who left academia ([audio](https://physicistsinthewild.buzzsprout.com) and [video](https://www.youtube.com/playlist?list=PLnwt2ODY2PX0hnUJgIwCwHSkPzH4J4fVX))
 - [DRiP](https://github.com/DRiP-project): A framework for doing research in public
 - [Python module](https://github.com/abranczyk/custom-poling) for designing the domain configuration of a nonlinear crystal to approximate a desired phase-matching function.
 - My [lectures](https://pirsa.org/speaker/agata-branczyk) on quantum theory from my time at Perimeter Institute
@@ -26,7 +26,7 @@ Some things I've made which might be useful:
 - A [list of my scientific publications](https://scholar.google.com/citations?user=TrDQTukAAAAJ&hl=en) on google scholar
 - My PhD thesis: [Non-classical states of light](https://espace.library.uq.edu.au/view/UQ:220610) ([pdf](/assets/pdf/Branczyk2010_Non-classical_states_of_light.pdf))
 
-Email me at [aggiebranczyk@gmail.com](mailto:aggiebranczyk@gmail.com). Tell me something about yourself. 
+Email me at [aggiebranczyk@gmail.com](mailto:aggiebranczyk@gmail.com). Tell me something about yourself.
 
 ---
 <i>Disclaimer: I work at IBM Quantum as a Technical Program Manager, and the opinions shared on this site are my own and are not in any way endorsed by IBM.</i>
