@@ -17,6 +17,7 @@ social: false  # includes social icons at the bottom of the page
 Former academic (physicist) who works in the quantum computing industry by day and thinks about how to do curiosity-driven research by night.
 
 Some things I've made which might be useful:
+- [Academics in the Wild](https://academicsinthewild.com): an initiative to support physicists and mathematicians in their journey from academia to industry.
 - Physicists in the Wild podcast: Interviews with physicists who left academia ([audio](https://physicistsinthewild.buzzsprout.com) and [video](https://www.youtube.com/playlist?list=PLnwt2ODY2PX0hnUJgIwCwHSkPzH4J4fVX))
 - [DRiP](https://github.com/DRiP-project): A framework for doing research in public
 - [Python module](https://github.com/abranczyk/custom-poling) for designing the domain configuration of a nonlinear crystal to approximate a desired phase-matching function.
