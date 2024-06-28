@@ -14,9 +14,15 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-Former academic (physicist) who works in the quantum computing industry by day and thinks about how to do curiosity-driven research by night.
+👋 Hi, I'm Aggie! I'm a Physicist in the Wild 🦘
 
-Some things I've made which might be useful:
+After my PhD, I spent 10 years in academia doing quantum research, then 4 years in quantum tech (things move ~2.5x faster in industry, so let's call it even!)
+
+Now, with insights from both academia and industry, I'm on a mission to create a life and career that amplifies my favourite aspects of both.
+
+In the coming months, I will focus on some of my passion projects, including Academics in the Wild, an initiative supporting physicists and mathematicians in their career transitions, before starting my next professional adventure later in 2024.
+
+Some things I’ve made which might be useful:
 - [Academics in the Wild](https://academicsinthewild.com): an initiative to support physicists and mathematicians in their journey from academia to industry
 - Physicists in the Wild podcast: Interviews with physicists who left academia ([audio](https://physicistsinthewild.buzzsprout.com) and [video](https://www.youtube.com/playlist?list=PLnwt2ODY2PX0hnUJgIwCwHSkPzH4J4fVX))
 - [DRiP](https://github.com/DRiP-project): A framework for doing research in public
@@ -28,6 +34,3 @@ Some things I've made which might be useful:
 - My PhD thesis: [Non-classical states of light](https://espace.library.uq.edu.au/view/UQ:220610) ([pdf](/assets/pdf/Branczyk2010_Non-classical_states_of_light.pdf))
 
 Email me at [aggiebranczyk@gmail.com](mailto:aggiebranczyk@gmail.com). Tell me something about yourself.
-
----
-<i>Disclaimer: I work at IBM Quantum as a Technical Program Manager, and the opinions shared on this site are my own and are not in any way endorsed by IBM.</i>

@@ -8,6 +8,44 @@
 #     - name: Citizenships
 #       value: Canadian, Australian, Polish
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Technical Program Manager, Quantum Working Groups
+      institution: IBM Quantum
+      year: 2023 - 2024
+    - title: Senior Research Scientist
+      institution: IBM Quantum
+      year: 2022 - 2023
+    - title: Manager, Quantum Applications Research & Software
+      institution: IBM Quantum
+      year: 2021 - 2022
+    - title: Research Staff Member
+      institution: IBM Quantum
+      year: 2020 - 2021
+    - title: PSI Fellow
+      institution: Perimeter Institute for Theoretical Physics, Waterloo, Canada
+      year: 2013 - 2020
+    - title: Postdoctoral Fellow
+      institution: Univeristy of Toronto, Toronto, Canada
+      year: 2010 - 2013
+
+- title: Affiliations
+  type: time_table
+  contents:
+    - title: Adjunct Associate Professor
+      institution: University of Waterloo, Waterloo, ON
+      year: 2020 - now
+    - title: Adjunct Assistant Professor
+      institution: University of Waterloo, Waterloo, ON
+      year: 2015 - 2020
+    - title: Affiliate Member
+      institution: Perimeter Institute for Theoretical Physics, Waterloo, ON
+      year: 2022 - now
+    - title: Associate Member
+      institution: Institute for Quantum Computing, Waterloo, ON
+      year: 2014 - now
+
 - title: Education
   type: time_table
   contents:
@@ -23,32 +61,6 @@
       description:
         - "Honours Thesis title: Quantum Control of a Single Qubit"
         - "Supervisors: Stephen D. Bartlett and Alexei Gilchrist"
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Senior Research Scientist
-      institution: IBM Quantum (remote from Waterloo)
-      year: 2020 - now
-    - title: PSI Fellow
-      institution: Perimeter Institute for Theoretical Physics, Waterloo, Canada
-      year: 2013 - 2020
-    - title: Postdoctoral Fellow
-      institution: Univeristy of Toronto, Toronto, Canada
-      year: 2010 - 2013
-
-- title: Affiliations
-  type: time_table
-  contents:
-    - title: Adjunct Associate Professor (previously Adjunct Assistant Professor)
-      institution: University of Waterloo, Waterloo, ON
-      year: 2015 - now
-    - title: Affiliate Member
-      institution: Perimeter Institute for Theoretical Physics, Waterloo, ON
-      year: 2022 - now
-    - title: Affiliate Member
-      institution: Institute for Quantum Computing, Waterloo, ON
-      year: 2014 - now
 
 # - title: Open Source Projects
 #   type: time_table
