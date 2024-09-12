@@ -20,10 +20,11 @@ After my PhD, I spent 10 years in academia doing quantum research, then 4 years 
 
 Now, with insights from both academia and industry, I'm on a mission to create a life and career that amplifies my favourite aspects of both.
 
-In the coming months, I will focus on some of my passion projects, including Academics in the Wild, an initiative supporting physicists and mathematicians in their career transitions, before starting my next professional adventure later in 2024.
+I'm starting a curiosity-and-values-driven company, which I'm building in public. You can read about it [here](https://aggieinc.substack.com/p/whats-a-lifestyle-business). 
 
-Some things I’ve made which might be useful:
-- [Academics in the Wild](https://academicsinthewild.com): an initiative to support physicists and mathematicians in their journey from academia to industry
+I'm also running [Academics in the Wild](https://academicsinthewild.com), a community of physicists and mathematicians learning from each other as we discover new career paths beyond academia.
+
+Some other things I’ve made which might be useful:
 - Physicists in the Wild podcast: Interviews with physicists who left academia ([audio](https://physicistsinthewild.buzzsprout.com) and [video](https://www.youtube.com/playlist?list=PLnwt2ODY2PX0hnUJgIwCwHSkPzH4J4fVX))
 - [DRiP](https://github.com/DRiP-project): A framework for doing research in public
 - [Python module](https://github.com/abranczyk/custom-poling) for designing the domain configuration of a nonlinear crystal to approximate a desired phase-matching function.
