@@ -12,6 +12,11 @@ module ExternalPosts
         site.config['external_sources'].each do |src|
           p "Fetching external posts from #{src['name']}:"
           xml = HTTParty.get(src['rss_url']).body
+          # Check if the response contains HTML instead of XML (as in Substack case)
+          if xml.include?('<!DOCTYPE html>')
+            p "Fetching Substack feed from local file"
+            xml = File.read('./substack.rss')  # Read from the locally stored file
+          end
           return if xml.nil?
           feed = Feedjira.parse(xml)
           feed.entries.each do |e|
