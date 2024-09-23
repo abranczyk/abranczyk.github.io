@@ -142,10 +142,10 @@ giscus:
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
 # external_sources:
-#   - name: Academics in the Wild (substack.com)
-#     rss_url: https://aitw.substack.com/feed
-#   - name: Aggie Inc. (substack.com)
-#     rss_url: https://aggieinc.substack.com/feed
+  - name: Academics in the Wild (substack.com)
+    rss_url: https://aitw.substack.com/feed
+  - name: Aggie Inc. (substack.com)
+    rss_url: https://aggieinc.substack.com/feed
     
 
 # -----------------------------------------------------------------------------
