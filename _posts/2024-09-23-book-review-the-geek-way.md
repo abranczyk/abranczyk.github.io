@@ -4,7 +4,7 @@ title: "Book review: The Geek Way by Andrew McAfee"
 description: Could have been a blog post, but contains some absolute gems that make it worthwhile
 date: 2024-09-23 10:08:01
 published: true
-# thumbnail: assets/img/over-communication-small.jpg
+thumbnail: /assets/img/bureaucracy.webp
 comment_issue_id: 3
 ---
 <figure>
