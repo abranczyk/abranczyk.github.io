@@ -143,9 +143,9 @@ giscus:
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   - name: Academics in the Wild (substack.com)
-    rss_url: https://aitw.substack.com/feed
+    rss_url: https://aitw.substack.com/feeds
   - name: Aggie Inc. (substack.com)
-    rss_url: https://aggieinc.substack.com/feed
+    rss_url: https://aggieinc.substack.com/feeds
     
 
 # -----------------------------------------------------------------------------

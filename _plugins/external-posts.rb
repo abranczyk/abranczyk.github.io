@@ -19,7 +19,7 @@ module ExternalPosts
 
             # Use the correct local file based on the source name
             if src['name'] == 'Academics in the Wild (substack.com)'
-              xml = File.read('./substack1.rss')
+              xml = File.read('./substack1-clean.rss')
             elsif src['name'] == 'Aggie Inc. (substack.com)'
               xml = File.read('./substack2.rss')
             else
