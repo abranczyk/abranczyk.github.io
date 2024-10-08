@@ -11,6 +11,9 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Founder
+      institution: Aggie Branczyk Enterprises
+      year: 2024 - NOW
     - title: Technical Program Manager, Quantum Working Groups
       institution: IBM Quantum
       year: 2023 - 2024
@@ -23,7 +26,7 @@
     - title: Research Staff Member
       institution: IBM Quantum
       year: 2020 - 2021
-    - title: PSI Fellow
+    - title: PSI Fellow (Teaching Fellow)
       institution: Perimeter Institute for Theoretical Physics, Waterloo, Canada
       year: 2013 - 2020
     - title: Postdoctoral Fellow
