@@ -4,12 +4,12 @@ title: "Causal inference yesterday, today and tomorrow: a talk by Ilya Shpitser,
 description: My notes on select parts of the talk, in particular, what Machine Learning and Causal Inference communities can learn from each other.
 date: 2024-10-08 00:00:00
 published: true
-# comment_issue_id: 5
 authors:
   - name: Aggie Branczyk
     url: "https://aggiebranczyk.com"
     affiliations:
       name: ABE Research
+comment_issue_id: 4 
 ---
 *The content of this post is based on a lecture given by Ilya Shpitser. The ideas presented are his. This post reflects my personal interpretation and understanding of the material. Any errors or omissions are my own.*
 

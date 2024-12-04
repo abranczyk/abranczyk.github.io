@@ -14,6 +14,8 @@ for item in channel.findall('item'):
         channel.remove(item)
     if "Podcast:" in title:
         channel.remove(item)
+    if "[Reddit Roundup]" in title:
+        channel.remove(item)
 
 # Write the updated XML back to the file
 tree.write('substack1-clean.rss')
