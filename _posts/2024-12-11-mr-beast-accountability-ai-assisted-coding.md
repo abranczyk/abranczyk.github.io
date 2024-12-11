@@ -2,7 +2,7 @@
 layout: post
 title: "Mr Beast Accountability Co-working Session #1"
 description: Getting started with AI-assisted coding
-date: 2024-12-11 12:08:01
+date: 2024-12-11 17:06:01
 published: true
 hidden: false
 thumbnail: /assets/img/bureaucracy.webp
@@ -235,6 +235,7 @@ Dang. Out of time. I also don't have time to write up how the conversation went,
 
 So my plan for next week's session is to work on making this website much more beautiful and doing what I want it to do. 
 
+---
 
 # Appendix A
 
@@ -243,7 +244,7 @@ So my plan for next week's session is to work on making this website much more b
 #### Project Overview
 The objective is to create a static website to showcase educational carousels (slideshows) with essential features to enhance user experience. The website should allow users to search for carousels by topics, browse through available carousels, and offer a mobile-native experience.
 
----
+
 
 ### Features and Requirements
 
@@ -286,7 +287,6 @@ The objective is to create a static website to showcase educational carousels (s
 - **Analytics Integration:** Track user interactions and popular carousels.
 - **Theming:** Support for light and dark modes.
 
----
 
 ### Technical Specifications
 - **Tech Stack:**
@@ -299,14 +299,14 @@ The objective is to create a static website to showcase educational carousels (s
   - Typography and color scheme to ensure readability.
   - Consistent navigation across devices.
 
----
+
 
 ### Deliverables
 1. **Design Mockups:** Wireframes and high-fidelity mockups for key pages (Homepage, Browse, Carousel Detail Page).
 2. **Static Website Code:** Complete source code for the website.
 3. **Documentation:** Instructions on updating content and deploying the website.
 
----
+
 
 ### Timeline
 - **Week 1:** Gather requirements and finalize design.
@@ -314,12 +314,14 @@ The objective is to create a static website to showcase educational carousels (s
 - **Week 3:** Implement browsing functionality and optimize for mobile.
 - **Week 4:** Final testing and deployment.
 
----
+
 
 ### Success Metrics
 - Website loads within 2 seconds on mobile.
 - Users can find carousels using the search functionality within 3 clicks.
 - Mobile usability score above 90% (e.g., using Google Lighthouse).
+
+---
 
 # Appendix B
 
