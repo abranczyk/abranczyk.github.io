@@ -53,7 +53,7 @@ Ok, it looks very nice. It seems like I can just start typing stuff into this te
 
 <figure>
 <center>
-  <img src="/assets/img/24-12-11-01.png" alt="test" style="width:80%; height:auto;">
+  <img src="/assets/img/24-12-11-01.png" alt="test" style="width:100%; height:auto;">
 </center>
 </figure>
 
@@ -62,7 +62,7 @@ Let's start with a website idea that's been floating around in my head. Let's tr
 
 <figure>
 <center>
-  <img src="/assets/img/24-12-11-03.png" alt="test" style="width:80%; height:auto;">
+  <img src="/assets/img/24-12-11-03.png" alt="test" style="width:100%; height:auto;">
 </center>
 </figure>
 
@@ -72,7 +72,7 @@ It's taking a few mins to think. Looks like it's generating a bunch of code file
 
 <figure>
 <center>
-  <img src="/assets/img/24-12-11-02.png" alt="test" style="width:80%; height:auto;">
+  <img src="/assets/img/24-12-11-02.png" alt="test" style="width:100%; height:auto;">
 </center>
 </figure>
 
@@ -80,7 +80,7 @@ Ok, wow, there is a website. It's got two carousels on it. I can click on one an
 
 <figure>
 <center>
-  <img src="/assets/img/24-12-11-04.png" alt="test" style="width:80%; height:auto;">
+  <img src="/assets/img/24-12-11-04.png" alt="test" style="width:100%; height:auto;">
 </center>
 </figure>
 
@@ -96,7 +96,7 @@ Ok, so it seems like I can get it to make some changes, and it responds to them,
 
 <figure>
 <center>
-  <img src="/assets/img/24-12-11-05.png" alt="test" style="width:80%; height:auto;">
+  <img src="/assets/img/24-12-11-05.png" alt="test" style="width:100%; height:auto;">
 </center>
 </figure>
 
@@ -104,7 +104,7 @@ The search functionality seems to work though, so that's cool.
 
 <figure>
 <center>
-  <img src="/assets/img/24-12-11-06.png" alt="test" style="width:80%; height:auto;">
+  <img src="/assets/img/24-12-11-06.png" alt="test" style="width:100%; height:auto;">
 </center>
 </figure>
 
@@ -131,7 +131,7 @@ What's next? V0? Looks similar to Loveable.
 
 <figure>
 <center>
-  <img src="/assets/img/24-12-11-07.png" alt="test" style="width:80%; height:auto;">
+  <img src="/assets/img/24-12-11-07.png" alt="test" style="width:100%; height:auto;">
 </center>
 </figure>
 
@@ -143,7 +143,7 @@ So far similar behaviour to Loveable. Thinking, coding...
 
 <figure>
 <center>
-  <img src="/assets/img/24-12-11-08.png" alt="test" style="width:80%; height:auto;">
+  <img src="/assets/img/24-12-11-08.png" alt="test" style="width:100%; height:auto;">
 </center>
 </figure>
 
@@ -151,7 +151,7 @@ Ok, we have a website!
 
 <figure>
 <center>
-  <img src="/assets/img/24-12-11-09.png" alt="test" style="width:80%; height:auto;">
+  <img src="/assets/img/24-12-11-09.png" alt="test" style="width:100%; height:auto;">
 </center>
 </figure>
 
@@ -167,7 +167,7 @@ So I got as far as having two draft websites, both of which presumably have a co
 
 <figure>
 <center>
-  <img src="/assets/img/24-12-11-10.png" alt="test" style="width:80%; height:auto;">
+  <img src="/assets/img/24-12-11-10.png" alt="test" style="width:100%; height:auto;">
 </center>
 </figure>
 
@@ -179,7 +179,7 @@ Now that I've installed Cursor, let's clone the repo for the website that Loveab
 
 <figure>
 <center>
-  <img src="/assets/img/24-12-11-11.png" alt="test" style="width:80%; height:auto;">
+  <img src="/assets/img/24-12-11-11.png" alt="test" style="width:100%; height:auto;">
 </center>
 </figure>
 
@@ -189,7 +189,7 @@ Maybe ChatGPT knows.
 
 <figure>
 <center>
-  <img src="/assets/img/24-12-11-12.png" alt="test" style="width:80%; height:auto;">
+  <img src="/assets/img/24-12-11-12.png" alt="test" style="width:100%; height:auto;">
 </center>
 </figure>
 
@@ -203,7 +203,7 @@ Maybe I should try and see if the AI assistant can help me figure out if I can s
 
 <figure>
 <center>
-  <img src="/assets/img/24-12-11-18.png" alt="test" style="width:80%; height:auto;">
+  <img src="/assets/img/24-12-11-18.png" alt="test" style="width:100%; height:auto;">
 </center>
 </figure>
 
@@ -219,7 +219,7 @@ Essentially I needed to install some packages. The kind of thing that used to ta
 
 <figure>
 <center>
-  <img src="/assets/img/24-12-11-16.png" alt="test" style="width:80%; height:auto;">
+  <img src="/assets/img/24-12-11-16.png" alt="test" style="width:100%; height:auto;">
 </center>
 </figure>
 
@@ -229,7 +229,7 @@ Dang. Out of time. I also don't have time to write up how the conversation went,
 
 <figure>
 <center>
-  <img src="/assets/img/24-12-11-19.png" alt="test" style="width:80%; height:auto;">
+  <img src="/assets/img/24-12-11-19.png" alt="test" style="width:100%; height:auto;">
 </center>
 </figure>
 
